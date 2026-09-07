@@ -1,4 +1,4 @@
-🇺🇸 US Healthcare Payer & Provider Analysis
+ US Healthcare Payer & Provider Analysis
 
 📌 Project Overview
 
